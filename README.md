@@ -33,7 +33,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [Dojo to Typescript Converter](https://github.com/stopyoukid/DojoToTypescriptConverter) - A typescript script which creates typescript compatible declarations from a dojo api.json file.
 * [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
-
+* [dgrid](http://dojofoundation.org/packages/dgrid/) - next-generation grid component that takes full advantage of modern browsers and object stores.
 
 ## Serverside integrations of Dojo Toolkit
 
@@ -59,7 +59,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo on Twitter](https://twitter.com/dojo) - Dojo's Twitter account
 * [Google Plus Community](https://plus.google.com/communities/107837593684207188221) - Dojo community on Google Plus
 * [Facebook Group](https://www.facebook.com/groups/4375511291/) - Dojo community on Facebook
-* [Brasil Facebook Group](https://www.facebook.com/groups/288220914564119/) - Dojo Community on Facebook
+* [Brazilian Facebook Group](https://www.facebook.com/groups/288220914564119/) - Brazilian Dojo Community on Facebook
 
 
 ## License
