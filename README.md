@@ -22,6 +22,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [grunt-dojo](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task
 
+* [generator-dojo](https://github.com/bryanforbes/generator-dojo) - A yeoman generator for Dojo projects
 
 ## Serverside integrations of Dojo Toolkit
 
