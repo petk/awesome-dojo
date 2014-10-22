@@ -1,6 +1,6 @@
 # Awesome Dojo
 
-A currated list of awesome [Dojo JavaScript Toolkit](http://dojotoolkit.org) libraries, resources and other useful things.
+A curated list of awesome [Dojo JavaScript Toolkit](http://dojotoolkit.org) libraries, resources and other useful things.
 
 Inspired by the `awesome-*` trend on GitHub.
 
@@ -36,6 +36,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Packages, libraries and scripts
 
+* [Dojo Foundation packages](http://packages.dojofoundation.org/) - Packages available on Dojo Foundation
 * [Dojo to Typescript Converter](https://github.com/stopyoukid/DojoToTypescriptConverter) - A typescript script which creates typescript compatible declarations from a dojo api.json file.
 * [dgrid](http://dojofoundation.org/packages/dgrid/) - next-generation grid component that takes full advantage of modern browsers and object stores.
 * [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
