@@ -24,6 +24,8 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [generator-dojo](https://github.com/bryanforbes/generator-dojo) - A yeoman generator for Dojo projects
 
+* [Dojo the Good parts](https://github.com/DavidSpriggs/Dojo--The-Good-Parts) - ESRI Developer Summit Presentation held March 10-13th 2014 in Palm Springs.
+
 ## Serverside integrations of Dojo Toolkit
 
 * [Dojos](https://github.com/supnate/dojos) - Server side dojo on NodeJS
