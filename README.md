@@ -42,4 +42,4 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## License
 
-You are most welcome to contribute to this amazing Dojo Toolkit list and you can also do whatever you like with it.
+You are most welcome to [contribute](CONTRIBUTING.md) to this amazing Dojo Toolkit list and you can also do whatever you like with it.
