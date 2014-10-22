@@ -47,6 +47,9 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo Maven](https://github.com/cometd/dojo-maven) - Maven packaging of the Dojo Toolkit
 * [Dojos](https://github.com/supnate/dojos) - Server side dojo on NodeJS
 
+## Testing
+
+* [Intern](https://github.com/theintern/) - A next-generation code testing stack for JavaScript.
 
 ## Applications
 
