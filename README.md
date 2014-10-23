@@ -44,7 +44,9 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Serverside integrations of Dojo Toolkit
 
 * [Dojango](https://www.facebook.com/groups/288220914564119/) - Dojo and Django Python framework integration
-* [Dojo & Composer](https://github.com/superdweebie/dojo) - A package repository to allow dojo install with PHP's composer and packagist
+* [Dojo & Composer](https://github.com/superdweebie/dojo) - A package repository to allow dojo install with PHP's Composer
+* [Dojo & Symfony PHP framework](http://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/) - integrating Dojo Toolkit with Symfony PHP framework
+* [Dojo & Zend PHP framework](https://github.com/superdweebie/DojoModule) - integrating Dojo Toolkit with Zend Framework through DojoModule
 * [Dojo Maven](https://github.com/cometd/dojo-maven) - Maven packaging of the Dojo Toolkit
 * [Dojos](https://github.com/supnate/dojos) - Server side dojo on NodeJS
 
@@ -64,8 +66,8 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Community
 
 * [Brazilian Facebook Group](https://www.facebook.com/groups/288220914564119/) - Brazilian Dojo Community on Facebook
-* [Dojo on StackOverflow](http://stackoverflow.com/questions/tagged/dojo) - Dojo Toolkit support on StackOverflow
 * [Dojo mailing list](http://dojotoolkit.org/community/) - mailing list for questions and discussions
+* [Dojo on StackOverflow](http://stackoverflow.com/questions/tagged/dojo) - Dojo Toolkit support on StackOverflow
 * [Dojo on Twitter](https://twitter.com/dojo) - Dojo's Twitter account
 * [Facebook Group](https://www.facebook.com/groups/4375511291/) - Dojo community on Facebook
 * [Google Plus Community](https://plus.google.com/communities/107837593684207188221) - Dojo community on Google Plus
