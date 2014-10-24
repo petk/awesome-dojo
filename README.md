@@ -71,6 +71,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo on Twitter](https://twitter.com/dojo) - Dojo's Twitter account
 * [Facebook Group](https://www.facebook.com/groups/4375511291/) - Dojo community on Facebook
 * [Google Plus Community](https://plus.google.com/communities/107837593684207188221) - Dojo community on Google Plus
+* [Linked In Dojo Ajax Toolkit Developers Group](https://www.linkedin.com/groups/Dojo-Ajax-Toolkit-Developers-71399) - Dojo Community on LinkedIn
+* [Linked In Dojo Toolkit Group](https://www.linkedin.com/groups/dojo-toolkit-81926) - Dojo Community on LinkedIn
 * [Reddit Community](http://www.reddit.com/r/dojo/) - growing community discussing Dojo on Reddit.
 * [SensioLabs Connect Club](https://connect.sensiolabs.com/club/dojo-toolkit) - Sensiolabs Connect Dojo Toolkit Club
 
