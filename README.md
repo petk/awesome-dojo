@@ -48,8 +48,10 @@ Inspired by the `awesome-*` trend on GitHub.
 * [AngularJS Dojo](https://github.com/adrobisch/angular-dojo) - AngularJS directives for dojo widgets
 * [Dojo Foundation packages](http://packages.dojofoundation.org/) - Packages available on Dojo Foundation
 * [Dojo to Typescript Converter](https://github.com/stopyoukid/DojoToTypescriptConverter) - A typescript script which creates typescript compatible declarations from a dojo api.json file.
-* [dgrid](http://dojofoundation.org/packages/dgrid/) - next-generation grid component that takes full advantage of modern browsers and object stores.
 * [generator-dojo](https://github.com/bryanforbes/generator-dojo) - A yeoman generator for Dojo projects
+* Grids
+    * [dgrid](http://dojofoundation.org/packages/dgrid/) - next-generation grid component that takes full advantage of modern browsers and object stores.
+    * [gridx](http://oria.github.io/gridx/) - A fast rendering, well modularized and plugin architecture based Grid.
 * [grunt-dojo](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task
 * [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
 
