@@ -65,7 +65,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [Dojos](https://github.com/supnate/dojos) - Server side dojo on NodeJS
     * [Node.js integration](http://dojotoolkit.org/documentation/tutorials/1.10/node/) - Tutorial how to use Dojo and Node.js
 * PHP
-    * [Dojo & Composer](https://github.com/superdweebie/dojo) - A package repository to allow dojo install with PHP's Composer
+    * [Dojo & Composer](https://github.com/zoopcommerce/pixie) - custom Composer installers for zoop packages including Dojo
     * [Dojo & Symfony PHP framework](http://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/) - integrating Dojo Toolkit with Symfony PHP framework
     * [Dojo & Zend PHP framework](https://github.com/superdweebie/DojoModule) - integrating Dojo Toolkit with Zend Framework through DojoModule
 
