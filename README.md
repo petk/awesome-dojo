@@ -40,6 +40,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [dboostrap](https://github.com/martinpengellyphillips/dbootstrap) - Bootstrap theme for Dojo
 * [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit
+* [Dojo Node Boilerplate](dojo-node-boilerplate) - A quickstart "template" for using the Dojo Toolkit on NodeJS
 * [Dojo Twitter bootstrap](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo
 
 
@@ -58,12 +59,16 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Serverside integrations
 
 * [Dojango](https://www.facebook.com/groups/288220914564119/) - Dojo and Django Python framework integration
-* [Dojo & Composer](https://github.com/superdweebie/dojo) - A package repository to allow dojo install with PHP's Composer
 * [dojo-rails](http://robin850.github.io/dojo-rails/) - Dojo and Ruby on Rails framework integration
-* [Dojo & Symfony PHP framework](http://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/) - integrating Dojo Toolkit with Symfony PHP framework
-* [Dojo & Zend PHP framework](https://github.com/superdweebie/DojoModule) - integrating Dojo Toolkit with Zend Framework through DojoModule
 * [Dojo Maven](https://github.com/cometd/dojo-maven) - Maven packaging of the Dojo Toolkit
-* [Dojos](https://github.com/supnate/dojos) - Server side dojo on NodeJS
+* Node.js
+    * [Dojos](https://github.com/supnate/dojos) - Server side dojo on NodeJS
+    * [Node.js integration](http://dojotoolkit.org/documentation/tutorials/1.10/node/) - Tutorial how to use Dojo and Node.js
+* PHP
+    * [Dojo & Composer](https://github.com/superdweebie/dojo) - A package repository to allow dojo install with PHP's Composer
+    * [Dojo & Symfony PHP framework](http://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/) - integrating Dojo Toolkit with Symfony PHP framework
+    * [Dojo & Zend PHP framework](https://github.com/superdweebie/DojoModule) - integrating Dojo Toolkit with Zend Framework through DojoModule
+
 
 ## Testing
 
