@@ -61,6 +61,10 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojango](https://www.facebook.com/groups/288220914564119/) - Dojo and Django Python framework integration
 * [dojo-rails](http://robin850.github.io/dojo-rails/) - Dojo and Ruby on Rails framework integration
 * [Dojo Maven](https://github.com/cometd/dojo-maven) - Maven packaging of the Dojo Toolkit
+* ASP.NET
+    * [Dojo & ASP.NET](http://www.codeproject.com/Articles/650443/DataGrid-View-with-Sorting-and) - DataGrid View with Sorting and Paging using Dojo EnhancedGrid, JsonRest Store, Entity Framework, SQL Server, ASP.NET MVC Web API
+    * [Dojo/ASP.NET MVC](http://blog.simpletask.se/post/build-your-dojoasp.net-mvc-application) - Blog post about building your Dojo/ASP.NET MVC application
+    * [Dojo.NET](https://github.com/lstratman/Dojo.NET) - .NET class library that provides WebControl bindings to ASP.NET websites (both WebForms and MVC, including Razor) using the Dojo toolkit.
 * Node.js
     * [Dojos](https://github.com/supnate/dojos) - Server side dojo on NodeJS
     * [Node.js integration](http://dojotoolkit.org/documentation/tutorials/1.10/node/) - Tutorial how to use Dojo and Node.js
