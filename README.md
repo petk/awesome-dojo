@@ -65,6 +65,13 @@ Inspired by the `awesome-*` trend on GitHub.
     * [Dojo & ASP.NET](http://www.codeproject.com/Articles/650443/DataGrid-View-with-Sorting-and) - DataGrid View with Sorting and Paging using Dojo EnhancedGrid, JsonRest Store, Entity Framework, SQL Server, ASP.NET MVC Web API
     * [Dojo/ASP.NET MVC](http://blog.simpletask.se/post/build-your-dojoasp.net-mvc-application) - Blog post about building your Dojo/ASP.NET MVC application
     * [Dojo.NET](https://github.com/lstratman/Dojo.NET) - .NET class library that provides WebControl bindings to ASP.NET websites (both WebForms and MVC, including Razor) using the Dojo toolkit.
+* Java
+    * [Dojofaces](www.dojofaces.org) - project that assists JSF developers in connecting Dojo widgets with JSF backign beans
+    * [DWR](http://directwebremoting.org/) - library that enables Java on the server and JavaScript in a browser
+    * [Grails](http://grails.org/) - open source full stack web application framework that has support for Dojo with [plugin](http://grails.org/plugin/dojo)
+    * [LightStreamer](http://www.lightstreamer.com/) - Server with Dojo integrated
+    * [Spring](http://www.sitepen.com/blog/2011/08/11/how-do-you-use-the-dojo-store-jsonrest-api-with-spring/) - How to integrate Spring and Dojo
+    * [Websphere](http://www.ibm.com/software/websphere/) - Application server has Dojo integrated
 * Node.js
     * [Dojos](https://github.com/supnate/dojos) - Server side dojo on NodeJS
     * [Node.js integration](http://dojotoolkit.org/documentation/tutorials/1.10/node/) - Tutorial how to use Dojo and Node.js
@@ -84,6 +91,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo Demo](https://github.com/rmurphey/dojo-demo) - Dojo demo
 * [dojorama](https://github.com/sirprize/dojorama) - Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API
 * [Dojox application](https://github.com/dmachi/dojox_application) - Dojox Application Framework for mobile, tablets, and desktops
+* [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
 * [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples
 
 
