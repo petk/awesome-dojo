@@ -1,12 +1,13 @@
 # Awesome Dojo
 
-A curated list of awesome [Dojo JavaScript Toolkit](http://dojotoolkit.org) libraries, resources and other useful things.
+A curated list of awesome [Dojo JavaScript Toolkit](http://dojotoolkit.org) libraries, resources and other shiny things.
 
 Inspired by the `awesome-*` trend on GitHub.
 
 > Dojo saves you time and scales with your development process, using web standards as its platform. It's the toolkit
 > experienced developers turn to for building high quality desktop and mobile web applications.
 > From simple websites to large packaged enterprise applications whether desktop or mobile, Dojo will meet your needs.
+
 
 ## Index
 
@@ -18,6 +19,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Testing](#testing)
 * [Applications](applications)
 * [Community](#community)
+* [Other Awesome Lists](#other-awesome-lists)
+* [Contributing and License](#contributing-and-license)
 
 
 ## DojoToolkit.org resources and documentation
@@ -56,6 +59,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [grunt-dojo](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task
 * [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
 
+
 ## Serverside integrations
 
 * [Dojango](https://www.facebook.com/groups/288220914564119/) - Dojo and Django Python framework integration
@@ -85,6 +89,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [Intern](https://github.com/theintern/) - A next-generation code testing stack for JavaScript.
 
+
 ## Applications
 
 * [AuShada](https://github.com/dreaswar/AuShadha) - Django and Dojo application for Electronic Medical Records (EMR) and Public Health Management
@@ -108,6 +113,16 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Reddit Community](http://www.reddit.com/r/dojo/) - growing community discussing Dojo on Reddit.
 * [SensioLabs Connect Club](https://connect.sensiolabs.com/club/dojo-toolkit) - Sensiolabs Connect Dojo Toolkit Club
 
-## License
 
-You are most welcome to [contribute](CONTRIBUTING.md) to this amazing Dojo Toolkit list and you can also do whatever you like with it.
+## Other Awesome Lists
+
+* [awesome](https://github.com/sindresorhus/awesome)
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome)
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+* [lists](https://github.com/jnv/lists)
+
+
+## Contributing and License
+
+Thanks to all [current contributors](https://github.com/peterkokot/awesome-dojo/graphs/contributors) who have helped build this awesome Dojo list.
+You are most welcome to [contribute](CONTRIBUTING.md) as well to this amazing Dojo Toolkit list. License: you can do [whatever you like](LICENSE) like with it.
