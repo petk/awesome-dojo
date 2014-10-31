@@ -124,5 +124,9 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Contributing and License
 
-Thanks to all [current contributors](https://github.com/peterkokot/awesome-dojo/graphs/contributors) who have helped build this awesome Dojo list.
-You are most welcome to [contribute](CONTRIBUTING.md) as well to this amazing Dojo Toolkit list. License: you can do [whatever you like](LICENSE) like with it.
+You are most welcome to [contribute](CONTRIBUTING.md) to this awesome Dojo Toolkit list as well.
+
+Big thanks to all current [contributors](https://github.com/peterkokot/awesome-dojo/graphs/contributors) who have helped build this awesome Dojo list.
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE). Feel free to create also your list if you find this
+list insufficient. But having everything on "one place" would be better for easier maintaining of the awesome-dojo list.
