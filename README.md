@@ -57,6 +57,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [dgrid](http://dojofoundation.org/packages/dgrid/) - next-generation grid component that takes full advantage of modern browsers and object stores.
     * [gridx](http://oria.github.io/gridx/) - A fast rendering, well modularized and plugin architecture based Grid.
 * [grunt-dojo](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task
+* [karma-dojo](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit.
 * [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
 
 
@@ -77,6 +78,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [Spring](http://www.sitepen.com/blog/2011/08/11/how-do-you-use-the-dojo-store-jsonrest-api-with-spring/) - How to integrate Spring and Dojo
     * [Websphere](http://www.ibm.com/software/websphere/) - Application server has Dojo integrated
 * Node.js
+    * [dojo-node](https://github.com/agebrock/dojo-node) - Lightwave Dojo wrapper for Node.js
     * [Dojos](https://github.com/supnate/dojos) - Server side dojo on NodeJS
     * [Node.js integration](http://dojotoolkit.org/documentation/tutorials/1.10/node/) - Tutorial how to use Dojo and Node.js
 * PHP
