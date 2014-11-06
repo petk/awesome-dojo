@@ -70,6 +70,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [Dojo & ASP.NET](http://www.codeproject.com/Articles/650443/DataGrid-View-with-Sorting-and) - DataGrid View with Sorting and Paging using Dojo EnhancedGrid, JsonRest Store, Entity Framework, SQL Server, ASP.NET MVC Web API
     * [Dojo/ASP.NET MVC](http://blog.simpletask.se/post/build-your-dojoasp.net-mvc-application) - Blog post about building your Dojo/ASP.NET MVC application
     * [Dojo.NET](https://github.com/lstratman/Dojo.NET) - .NET class library that provides WebControl bindings to ASP.NET websites (both WebForms and MVC, including Razor) using the Dojo toolkit.
+    * [Reactive Extensions](https://github.com/Reactive-Extensions/RxJS-Dojo) - Reactive Extensions bindings for the Dojo Toolkit
 * Java
     * [Dojofaces](www.dojofaces.org) - project that assists JSF developers in connecting Dojo widgets with JSF backign beans
     * [DWR](http://directwebremoting.org/) - library that enables Java on the server and JavaScript in a browser
