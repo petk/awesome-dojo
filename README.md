@@ -63,7 +63,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Serverside integrations
 
-* [Dojango](https://www.facebook.com/groups/288220914564119/) - Dojo and Django Python framework integration
+* [Dojango](https://github.com/klipstein/dojango/) - Dojo and Django Python framework integration
 * [dojo-rails](http://robin850.github.io/dojo-rails/) - Dojo and Ruby on Rails framework integration
 * [Dojo Maven](https://github.com/cometd/dojo-maven) - Maven packaging of the Dojo Toolkit
 * ASP.NET
