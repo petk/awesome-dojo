@@ -17,7 +17,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Packages, libraries and scripts](#packages-libraries-and-scripts)
 * [Serverside integrations](#serverside-integrations)
 * [Testing](#testing)
-* [Applications](applications)
+* [Applications](#applications)
+* [Themes](#themes)
 * [TypeScript](#typescript)
 * [Community](#community)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -106,6 +107,10 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
 * [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples
 
+
+## Themes
+
+* [dijit-claro-stylus](https://github.com/SitePen/dijit-claro-stylus) - A straight conversion of Dijit's Claro theme from LESS to Stylus.
 
 ## TypeScript
 
