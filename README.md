@@ -55,7 +55,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [delite](https://github.com/ibm-js/delite) - HTML Custom Element / Widget infrastructure
 * [deliteful](https://github.com/ibm-js/deliteful) - Multichannel (desktop/mobile) UI Custom Elements Library
 * [Dojo Foundation packages](http://packages.dojofoundation.org/) - Packages available on Dojo Foundation
-* [dojo-smore](https://github.com/SitePen/dojo-smore) - package with Dojo/Store implementation
+* [dojo-smore](https://github.com/kfranqueiro/dojo-smore) - package with Dojo/Store implementation
 * [generator-dojo](https://github.com/bryanforbes/generator-dojo) - A yeoman generator for Dojo projects
 * Grids
     * [dgrid](http://dojofoundation.org/packages/dgrid/) - next-generation grid component that takes full advantage of modern browsers and object stores.
@@ -112,7 +112,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Themes
 
-* [dijit-claro-stylus](https://github.com/SitePen/dijit-claro-stylus) - A straight conversion of Dijit's Claro theme from LESS to Stylus.
+* [dijit-claro-stylus](https://github.com/kfranqueiro/dijit-claro-stylus) - A straight conversion of Dijit's Claro theme from LESS to Stylus.
 
 ## TypeScript
 
