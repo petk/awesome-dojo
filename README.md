@@ -39,6 +39,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo and Bootstrap FAQ](http://www.sitepen.com/blog/2014/08/13/dojo-faq-how-do-i-use-bootstrap-with-dijit/) - how to use Bootstrap with Dijit
 * [Dojo Toolkit 1.9 tutorial](https://github.com/cepa/dojo-tutorial) - A tutorial using Dojo Toolkit 1.9
 * [Dojo the Good parts](https://github.com/DavidSpriggs/Dojo--The-Good-Parts) - ESRI Developer Summit Presentation held March 10-13th 2014 in Palm Springs.
+* [Pluralsight's Dojo tutorial](http://www.pluralsight.com/courses/dojo-fundamentals) - Video tutorials for learning Dojo Toolkit
 
 
 ## Bootstraps and boilerplates
