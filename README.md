@@ -52,7 +52,10 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Packages, libraries and scripts
 
 * [AngularJS Dojo](https://github.com/adrobisch/angular-dojo) - AngularJS directives for dojo widgets
+* [delite](https://github.com/ibm-js/delite) - HTML Custom Element / Widget infrastructure
+* [deliteful](https://github.com/ibm-js/deliteful) - Multichannel (desktop/mobile) UI Custom Elements Library
 * [Dojo Foundation packages](http://packages.dojofoundation.org/) - Packages available on Dojo Foundation
+* [dojo-smore](https://github.com/SitePen/dojo-smore) - package with Dojo/Store implementation
 * [generator-dojo](https://github.com/bryanforbes/generator-dojo) - A yeoman generator for Dojo projects
 * Grids
     * [dgrid](http://dojofoundation.org/packages/dgrid/) - next-generation grid component that takes full advantage of modern browsers and object stores.
@@ -61,7 +64,6 @@ Inspired by the `awesome-*` trend on GitHub.
 * [karma-dojo](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit.
 * [Leadfoot](https://github.com/theintern/leadfoot) - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API
 * [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
-* [dojo-smore](https://github.com/SitePen/dojo-smore) - package with Dojo/Store implementation
 
 
 ## Serverside integrations
