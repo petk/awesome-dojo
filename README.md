@@ -32,6 +32,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo and Bootstrap FAQ](http://www.sitepen.com/blog/2014/08/13/dojo-faq-how-do-i-use-bootstrap-with-dijit/) - how to use Bootstrap with Dijit
 * [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit
 * [Dojo Twitter bootstrap](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo
+* [Flat Dojo](http://yiweima.github.io/flatdojo/) - Esri Flat Dijit Design 
 
 
 ## Packages, libraries and scripts
@@ -50,6 +51,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Testing
 
 * [Intern](https://github.com/theintern/) - A next-generation code testing stack for JavaScript.
+* [Intern The user guide](https://theintern.github.io/intern/#what-is-intern) - A quite complete manual about how to use The Intern
 
 ## Applications
 
