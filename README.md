@@ -50,6 +50,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [dojo.js](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp.
 * [dojo-node-boilerplate](https://github.com/kitsonk/dojo-node-boilerplate) - A quickstart "template" for using Dojo Toolkit on NodeJS
 
+
 ## Packages, libraries and scripts
 
 * [AngularJS Dojo](https://github.com/adrobisch/angular-dojo) - AngularJS directives for dojo widgets
@@ -97,6 +98,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Testing
 
 * [Intern](https://github.com/theintern/) - A next-generation code testing stack for JavaScript.
+* [Intern The user guide](https://theintern.github.io/intern/#what-is-intern) - A quite complete manual about how to use The Intern
 
 
 ## Applications
@@ -114,6 +116,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Themes
 
 * [dijit-claro-stylus](https://github.com/kfranqueiro/dijit-claro-stylus) - A straight conversion of Dijit's Claro theme from LESS to Stylus.
+* [Flat Dojo Theme](http://yiweima.github.io/flatdojo/) - Esri Flat Dijit Design
 
 ## TypeScript
 
