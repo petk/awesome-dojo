@@ -27,7 +27,7 @@ If you decide to contribute this Awesome Dojo repository, please do the followin
 
 * Make changes to the `patch-1` branch
 
-  Changes must be include librarires or resources that use [Dojo Toolkit](http://dojotoolkit.org) or any project related to
+  Changes must include librarires or resources that use [Dojo Toolkit](http://dojotoolkit.org) or any project related to
   [Dojo Foundation](http://dojofoundation.org/). Typos and grammatical corrections are perfectly fine as well.
 
 * Commit and push to your GitHub repository
