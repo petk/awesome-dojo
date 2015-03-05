@@ -104,6 +104,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Applications
 
 * [AuShada](https://github.com/dreaswar/AuShadha) - Django and Dojo application for Electronic Medical Records (EMR) and Public Health Management
+* [dapi](https://github.com/dojo/dapi) - node.js Dojo API viewer
 * [Dig Dug](https://github.com/theintern/digdug) - A JavaScript library for launching WebDriver service tunnels
 * [Dojo Demo](https://github.com/rmurphey/dojo-demo) - Dojo demo
 * [dojorama](https://github.com/sirprize/dojorama) - Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API
