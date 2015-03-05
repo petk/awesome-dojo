@@ -109,6 +109,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo Demo](https://github.com/rmurphey/dojo-demo) - Dojo demo
 * [dojorama](https://github.com/sirprize/dojorama) - Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API
 * [Dojox application](https://github.com/dmachi/dojox_application) - Dojox Application Framework for mobile, tablets, and desktops
+* [js-doc-parse](https://github.com/wkeese/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
 * [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples
