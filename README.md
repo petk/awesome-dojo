@@ -98,7 +98,9 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Testing
 
 * [Intern](https://github.com/theintern/) - A next-generation code testing stack for JavaScript.
-* [Intern The user guide](https://theintern.github.io/intern/#what-is-intern) - A quite complete manual about how to use The Intern
+* [Intern User guide](https://theintern.github.io/intern/#what-is-intern) - A quite complete manual about how to use The Intern
+* [Intern Yeoman page objects](https://github.com/glamb/generator-internjs-pageobjects/) - A Yeoman generator to create unit test and suites
+* [Intern Yeoman generator](https://github.com/enkitosh/generator-intern/) - Yeoman generator - Intern
 
 
 ## Applications
