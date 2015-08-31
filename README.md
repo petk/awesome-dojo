@@ -123,6 +123,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [dijit-claro-stylus](https://github.com/kfranqueiro/dijit-claro-stylus) - A straight conversion of Dijit's Claro theme from LESS to Stylus.
 * [Flat Dojo Theme](http://yiweima.github.io/flatdojo/) - Esri Flat Dijit Design
+* [Semantic Dojo Theme](http://websemantics.github.io/semantic-dojo/) - A responsive Dojo theme that harnesses the style awesomeness of [Semantic UI](http://semantic-ui.com/) Framework.
 
 ## TypeScript
 
