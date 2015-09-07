@@ -2,7 +2,7 @@
 
 If you decide to contribute this Awesome Dojo repository, please do the following:
 
-* Fork a project over GitHub
+* Fork a project on GitHub
 
 * Set up your repository and set a remote branch for future updates
 
@@ -17,7 +17,7 @@ If you decide to contribute this Awesome Dojo repository, please do the followin
   $ git pull
   ```
 
-* Create a new Git branch for instance patch-1:
+* Create a new Git branch for instance `patch-1`:
 
   ```bash
   $ git checkout -b patch-1
@@ -27,7 +27,7 @@ If you decide to contribute this Awesome Dojo repository, please do the followin
 
 * Make changes to the `patch-1` branch
 
-  Changes must include librarires or resources that use [Dojo Toolkit](http://dojotoolkit.org) or any project related to
+  Changes must include libraries or resources that use [Dojo Toolkit](http://dojotoolkit.org) or any project related to
   [Dojo Foundation](http://dojofoundation.org/). Typos and grammatical corrections are perfectly fine as well.
 
 * Commit and push to your GitHub repository
