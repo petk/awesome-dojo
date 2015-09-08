@@ -166,6 +166,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Other Awesome Lists
 
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list
+* [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books
 * awesome lists:
     * [awesome](https://github.com/sindresorhus/awesome) - awesome list
     * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list
