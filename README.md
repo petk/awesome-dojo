@@ -181,7 +181,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Contributing and License
 
-You are most welcome to [contribute](CONTRIBUTING.md) to this awesome Dojo Toolkit list as well. Big thanks to all current [contributors](https://github.com/peterkokot/awesome-dojo/graphs/contributors) who have helped build this list.
+You are most welcome to [contribute](CONTRIBUTING.md) to this awesome Dojo Toolkit list as well. Big thanks to all [contributors](https://github.com/peterkokot/awesome-dojo/graphs/contributors) who have helped to build this list.
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
