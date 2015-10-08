@@ -159,6 +159,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Reddit Community](http://www.reddit.com/r/dojo/) - growing community discussing Dojo on Reddit.
 * [SensioLabs Connect Club](https://connect.sensiolabs.com/club/dojo-toolkit) - Sensiolabs Connect Dojo Toolkit Club for PHP and Symfony developers
 * [IRC](http://irc.lc/freenode/dojo) - Large and active IRC support channel.
+* [Meetup](http://dojo.meetup.com/) - Get involved locally and find local user groups.
 
 [Back to top](#awesome-dojo-)
 
