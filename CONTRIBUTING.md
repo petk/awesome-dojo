@@ -1,6 +1,8 @@
-# Contributing guidelines to Dojo Awesome
+# Contributing guidelines to Awesome Dojo
 
-If you decide to contribute this Awesome Dojo repository, please do the following:
+Contributing to this project is very simple. You can open an [issue](https://github.com/peterkokot/awesome-dojo/issues).
+
+Pull requests are welcome as well:
 
 * Fork a project on GitHub
 
