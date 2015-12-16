@@ -36,17 +36,17 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Tutorials
 
-* [Dojo and Bootstrap FAQ](http://www.sitepen.com/blog/2014/08/13/dojo-faq-how-do-i-use-bootstrap-with-dijit/) - how to use Bootstrap with Dijit
+* [Dojo and Bootstrap FAQ](https://www.sitepen.com/blog/2014/08/13/dojo-faq-how-do-i-use-bootstrap-with-dijit/) - how to use Bootstrap with Dijit
 * [Dojo Toolkit 1.9 tutorial](https://github.com/cepa/dojo-tutorial) - A tutorial using Dojo Toolkit 1.9
 * [Dojo the Good parts](https://github.com/DavidSpriggs/Dojo--The-Good-Parts) - ESRI Developer Summit Presentation held March 10-13th 2014 in Palm Springs.
-* [Pluralsight's Dojo tutorial](http://www.pluralsight.com/courses/dojo-fundamentals) - Video tutorials for learning Dojo Toolkit
+* [Pluralsight's Dojo tutorial](https://www.pluralsight.com/courses/dojo-fundamentals) - Video tutorials for learning Dojo Toolkit
 
 [Back to top](#awesome-dojo-)
 
 
 ## Bootstraps and boilerplates
 
-* [dboostrap](https://github.com/martinpengellyphillips/dbootstrap) - Bootstrap theme for Dojo
+* [dboostrap](https://github.com/atoha/dbootstrap) - Bootstrap theme for Dojo
 * [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit
 * [Dojo Twitter bootstrap](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo
 * [dojo.js](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp.
@@ -64,7 +64,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [dojo-smore](https://github.com/kfranqueiro/dojo-smore) - package with Dojo/Store implementation
 * [generator-dojo](https://github.com/bryanforbes/generator-dojo) - A yeoman generator for Dojo projects
 * Grids
-    * [dgrid](http://dojofoundation.org/packages/dgrid/) - next-generation grid component that takes full advantage of modern browsers and object stores.
+    * [dgrid](http://dgrid.io/) - next-generation grid component that takes full advantage of modern browsers and object stores.
     * [gridx](http://oria.github.io/gridx/) - A fast rendering, well modularized and plugin architecture based Grid.
 * [grunt-dojo](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task
 * [karma-dojo](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit.
@@ -88,7 +88,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [DWR](http://directwebremoting.org/) - library that enables Java on the server and JavaScript in a browser
     * [Grails](http://grails.org/) - open source full stack web application framework that has support for Dojo with [plugin](http://grails.org/plugin/dojo)
     * [LightStreamer](http://www.lightstreamer.com/) - Server with Dojo integrated
-    * [Spring](http://www.sitepen.com/blog/2011/08/11/how-do-you-use-the-dojo-store-jsonrest-api-with-spring/) - How to integrate Spring and Dojo
+    * [Spring](https://www.sitepen.com/blog/2011/08/11/how-do-you-use-the-dojo-store-jsonrest-api-with-spring/) - How to integrate Spring and Dojo
     * [Websphere](http://www.ibm.com/software/websphere/) - Application server has Dojo integrated
 * Node.js
     * [dojo-node](https://github.com/agebrock/dojo-node) - Lightwave Dojo wrapper for Node.js
@@ -96,7 +96,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [Node.js integration](http://dojotoolkit.org/documentation/tutorials/1.10/node/) - Tutorial how to use Dojo and Node.js
 * PHP
     * [Dojo & Composer](https://github.com/zoopcommerce/pixie) - custom Composer installers for zoop packages including Dojo
-    * [Dojo & Symfony PHP framework](http://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/) - integrating Dojo Toolkit with Symfony PHP framework
+    * [Dojo & Symfony PHP framework](https://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/) - integrating Dojo Toolkit with Symfony PHP framework
     * [Dojo & Zend PHP framework](https://github.com/superdweebie/DojoModule) - integrating Dojo Toolkit with Zend Framework through DojoModule
 
 [Back to top](#awesome-dojo-)
@@ -120,7 +120,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo Demo](https://github.com/rmurphey/dojo-demo) - Dojo demo
 * [dojorama](https://github.com/sirprize/dojorama) - Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API
 * [Dojox application](https://github.com/dmachi/dojox_application) - Dojox Application Framework for mobile, tablets, and desktops
-* [js-doc-parse](https://github.com/wkeese/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation
+* [js-doc-parse](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation
 * [rstwiki](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
 * [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples
@@ -156,7 +156,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Google Plus Community](https://plus.google.com/communities/107837593684207188221) - Dojo community on Google Plus
 * [Linked In Dojo Ajax Toolkit Developers Group](https://www.linkedin.com/groups/Dojo-Ajax-Toolkit-Developers-71399) - Dojo Community on LinkedIn
 * [Linked In Dojo Toolkit Group](https://www.linkedin.com/groups/dojo-toolkit-81926) - Dojo Community on LinkedIn
-* [Reddit Community](http://www.reddit.com/r/dojo/) - growing community discussing Dojo on Reddit.
+* [Reddit Community](https://www.reddit.com/r/dojo/) - growing community discussing Dojo on Reddit.
 * [SensioLabs Connect Club](https://connect.sensiolabs.com/club/dojo-toolkit) - Sensiolabs Connect Dojo Toolkit Club for PHP and Symfony developers
 * [IRC](http://irc.lc/freenode/dojo) - Large and active IRC support channel.
 * [Meetup](http://dojo.meetup.com/) - Get involved locally and find local user groups.
