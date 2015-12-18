@@ -171,7 +171,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * awesome lists:
     * [awesome](https://github.com/sindresorhus/awesome) - awesome list
     * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list
-    * [GetAwesomeness](http://getawesomeness.com/) - awesome lists
+    * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
     * [lists](https://github.com/jnv/lists) - awesome lists
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists
     * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists
