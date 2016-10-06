@@ -30,10 +30,10 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## DojoToolkit.org resources and documentation
 
-* [API](http://dojotoolkit.org/api) - API reference for Dojo Toolkit
+* [API](http://dojotoolkit.org/api/) - API reference for Dojo Toolkit
 * [Roadmap](http://dojotoolkit.org/community/roadmap/) Dojo Roadmap (Dojo2)
-* [Blog](http://dojotoolkit.org/blog) - Dojo Toolkit Blog
-* [Demos](http://demos.dojotoolkit.org/) - Dojo Toolkit Demos
+* [Blog](http://dojotoolkit.org/blog/) - Dojo Toolkit Blog
+* [Demos](http://demos.dojotoolkit.org/demos/) - Dojo Toolkit Demos
 * [Reference guide](https://github.com/dojo/docs) - [http://dojotoolkit.org/reference-guide/](http://dojotoolkit.org/reference-guide/1.10/)
 * [Tutorials](http://dojotoolkit.org/documentation/) - authorized and updated tutorials for Dojo Toolkit
 * [Dojo Meta](https://github.com/dojo/meta) - Dojo 2 contribution and coding guidelines
@@ -111,11 +111,11 @@ Inspired by the `awesome-*` trend on GitHub.
     * [Reactive Extensions](https://github.com/Reactive-Extensions/RxJS-Dojo) - Reactive Extensions bindings for the Dojo Toolkit
 * Java
     * [Dojofaces](http://www.dojofaces.org) - project that assists JSF developers in connecting Dojo widgets with JSF backign beans
-    * [DWR](http://directwebremoting.org/) - library that enables Java on the server and JavaScript in a browser
-    * [Grails](http://grails.org/) - open source full stack web application framework that has support for Dojo with [plugin](http://grails.org/plugin/dojo)
+    * [DWR](http://directwebremoting.org/dwr/index.html) - library that enables Java on the server and JavaScript in a browser
+    * [Grails](https://grails.org/) - open source full stack web application framework that has support for Dojo with [plugin](http://grails.org/plugin/dojo)
     * [LightStreamer](http://www.lightstreamer.com/) - Server with Dojo integrated
     * [Spring](https://www.sitepen.com/blog/2011/08/11/how-do-you-use-the-dojo-store-jsonrest-api-with-spring/) - How to integrate Spring and Dojo
-    * [Websphere](http://www.ibm.com/software/websphere/) - Application server has Dojo integrated
+    * [Websphere](http://www.ibm.com/software/products/en/appserv-was) - Application server has Dojo integrated
 * Node.js
     * [dojo-node](https://github.com/agebrock/dojo-node) - Lightwave Dojo wrapper for Node.js
     * [Dojos](https://github.com/supnate/dojos) - Server side dojo on NodeJS
@@ -133,7 +133,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Intern](https://github.com/theintern/) - A next-generation code testing stack for JavaScript.
 * [Intern User guide](https://theintern.github.io/intern/#what-is-intern) - A quite complete manual about how to use The Intern
 * [Intern Yeoman page objects](https://github.com/glamb/generator-internjs-pageobjects/) - A Yeoman generator to create unit test and suites
-* [Intern Yeoman generator](https://github.com/enkitosh/generator-intern/) - Yeoman generator - Intern
+* [Intern Yeoman generator](https://github.com/naglalakk/generator-intern) - Yeoman generator - Intern
 
 [Back to top](#awesome-dojo)
 
@@ -166,7 +166,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## TypeScript
 
-* [Definitive TypeScript Guide](http://www.sitepen.com/blog/2013/12/31/definitive-guide-to-typescript/) - A guide about features and functionalities of TypeScript
+* [Definitive TypeScript Guide](https://www.sitepen.com/blog/2013/12/31/definitive-guide-to-typescript/) - A guide about features and functionalities of TypeScript
 * [Dojo to Typescript Converter](https://github.com/stopyoukid/DojoToTypescriptConverter) - A typescript script which creates typescript compatible declarations from a dojo api.json file.
 * [Dojo-TypeScript](https://github.com/schungx/Dojo-TypeScript) - Using Dojo 1.9 AMD-style with Microsoft TypeScript 0.9.5
 * [Dojo Typings](https://github.com/dojo/typings) - A repository of Dojo 1 TypeScript Typings (including Dijit and DojoX)
@@ -187,7 +187,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Reddit Community](https://www.reddit.com/r/dojo/) - growing community discussing Dojo on Reddit.
 * [SensioLabs Connect Club](https://connect.sensiolabs.com/club/dojo-toolkit) - Sensiolabs Connect Dojo Toolkit Club for PHP and Symfony developers
 * [IRC](http://irc.lc/freenode/dojo) - Large and active IRC support channel.
-* [Meetup](http://dojo.meetup.com/) - Get involved locally and find local user groups.
+* [Meetup](http://www.meetup.com/topics/dojo/) - Get involved locally and find local user groups.
 
 [Back to top](#awesome-dojo)
 
@@ -211,7 +211,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 You are most welcome to [contribute](CONTRIBUTING.md) to this awesome Dojo Toolkit list as well. Big thanks to all [contributors](https://github.com/peterkokot/awesome-dojo/graphs/contributors) who have helped to build this list.
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Peter Kokot](https://github.com/peterkokot) has waived all copyright and related or neighboring rights to this work.
 
