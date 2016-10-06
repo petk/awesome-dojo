@@ -1,4 +1,9 @@
-# Awesome Dojo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Dojo
+
+<a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
+[![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
+[![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/peterkokot/awesome-dojo/commits/master)
+[![Build Status](https://img.shields.io/travis/peterkokot/awesome-dojo/master.svg)](https://travis-ci.org/peterkokot/awesome-dojo)
 
 A curated list of awesome [Dojo JavaScript Toolkit](http://dojotoolkit.org) libraries, resources and other shiny things.
 
@@ -26,7 +31,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ## DojoToolkit.org resources and documentation
 
 * [API](http://dojotoolkit.org/api) - API reference for Dojo Toolkit
-* [Roadma](http://dojotoolkit.org/community/roadmap/) Dojo Roadmap (Dojo2)
+* [Roadmap](http://dojotoolkit.org/community/roadmap/) Dojo Roadmap (Dojo2)
 * [Blog](http://dojotoolkit.org/blog) - Dojo Toolkit Blog
 * [Demos](http://demos.dojotoolkit.org/) - Dojo Toolkit Demos
 * [Reference guide](https://github.com/dojo/docs) - [http://dojotoolkit.org/reference-guide/](http://dojotoolkit.org/reference-guide/1.10/)
@@ -35,7 +40,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo Website](https://github.com/dojo/dojo-website) - Website for Dojo Toolkit 1.x to 2.x transition
 
 
-[Back to top](#awesome-dojo-)
+[Back to top](#awesome-dojo)
 
 
 ## Tutorials
@@ -45,7 +50,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo the Good parts](https://github.com/DavidSpriggs/Dojo--The-Good-Parts) - ESRI Developer Summit Presentation held March 10-13th 2014 in Palm Springs.
 * [Pluralsight's Dojo tutorial](https://www.pluralsight.com/courses/dojo-fundamentals) - Video tutorials for learning Dojo Toolkit
 
-[Back to top](#awesome-dojo-)
+[Back to top](#awesome-dojo)
 
 
 ## Bootstraps and boilerplates
@@ -56,7 +61,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [dojo.js](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp.
 * [dojo-node-boilerplate](https://github.com/kitsonk/dojo-node-boilerplate) - A quickstart "template" for using Dojo Toolkit on NodeJS
 
-[Back to top](#awesome-dojo-)
+[Back to top](#awesome-dojo)
 
 
 ## Packages, libraries and scripts
@@ -91,7 +96,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 
 
-[Back to top](#awesome-dojo-)
+[Back to top](#awesome-dojo)
 
 
 ## Serverside integrations
@@ -119,7 +124,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [Dojo & Symfony PHP framework](https://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/) - integrating Dojo Toolkit with Symfony PHP framework
     * [Dojo & Zend PHP framework](https://github.com/superdweebie/DojoModule) - integrating Dojo Toolkit with Zend Framework through DojoModule
 
-[Back to top](#awesome-dojo-)
+[Back to top](#awesome-dojo)
 
 
 ## Testing
@@ -129,7 +134,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Intern Yeoman page objects](https://github.com/glamb/generator-internjs-pageobjects/) - A Yeoman generator to create unit test and suites
 * [Intern Yeoman generator](https://github.com/enkitosh/generator-intern/) - Yeoman generator - Intern
 
-[Back to top](#awesome-dojo-)
+[Back to top](#awesome-dojo)
 
 
 ## Applications
@@ -146,7 +151,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples
 * [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples
 
-[Back to top](#awesome-dojo-)
+[Back to top](#awesome-dojo)
 
 
 ## Themes
@@ -155,7 +160,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Flat Dojo Theme](http://yiweima.github.io/flatdojo/) - Esri Flat Dijit Design
 * [Semantic Dojo Theme](http://websemantics.github.io/semantic-dojo/) - A responsive Dojo theme that harnesses the style awesomeness of [Semantic UI](http://semantic-ui.com/) Framework.
 
-[Back to top](#awesome-dojo-)
+[Back to top](#awesome-dojo)
 
 
 ## TypeScript
@@ -165,7 +170,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo-TypeScript](https://github.com/schungx/Dojo-TypeScript) - Using Dojo 1.9 AMD-style with Microsoft TypeScript 0.9.5
 * [Dojo Typings](https://github.com/dojo/typings) - A repository of Dojo 1 TypeScript Typings (including Dijit and DojoX)
 
-[Back to top](#awesome-dojo-)
+[Back to top](#awesome-dojo)
 
 
 ## Community
@@ -183,7 +188,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [IRC](http://irc.lc/freenode/dojo) - Large and active IRC support channel.
 * [Meetup](http://dojo.meetup.com/) - Get involved locally and find local user groups.
 
-[Back to top](#awesome-dojo-)
+[Back to top](#awesome-dojo)
 
 
 ## Other Awesome Lists
@@ -198,7 +203,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists
     * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists
 
-[Back to top](#awesome-dojo-)
+[Back to top](#awesome-dojo)
 
 
 ## Contributing and License
@@ -209,4 +214,4 @@ You are most welcome to [contribute](CONTRIBUTING.md) to this awesome Dojo Toolk
 
 To the extent possible under law, [Peter Kokot](https://github.com/peterkokot) has waived all copyright and related or neighboring rights to this work.
 
-[Back to top](#awesome-dojo-)
+[Back to top](#awesome-dojo)
