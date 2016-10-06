@@ -34,7 +34,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Roadmap](http://dojotoolkit.org/community/roadmap/) Dojo Roadmap (Dojo2)
 * [Blog](http://dojotoolkit.org/blog/) - Dojo Toolkit Blog
 * [Demos](http://demos.dojotoolkit.org/demos/) - Dojo Toolkit Demos
-* [Reference guide](https://github.com/dojo/docs) - [http://dojotoolkit.org/reference-guide/](http://dojotoolkit.org/reference-guide/1.10/)
+* [Reference guide](https://github.com/dojo/docs) - [http://dojotoolkit.org/reference-guide/1.10/](http://dojotoolkit.org/reference-guide/1.10/)
 * [Tutorials](http://dojotoolkit.org/documentation/) - authorized and updated tutorials for Dojo Toolkit
 * [Dojo Meta](https://github.com/dojo/meta) - Dojo 2 contribution and coding guidelines
 * [Dojo Website](https://github.com/dojo/dojo-website) - Website for Dojo Toolkit 1.x to 2.x transition
@@ -115,7 +115,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [Grails](https://grails.org/) - open source full stack web application framework that has support for Dojo with [plugin](http://grails.org/plugin/dojo)
     * [LightStreamer](http://www.lightstreamer.com/) - Server with Dojo integrated
     * [Spring](https://www.sitepen.com/blog/2011/08/11/how-do-you-use-the-dojo-store-jsonrest-api-with-spring/) - How to integrate Spring and Dojo
-    * [Websphere](http://www.ibm.com/software/products/en/appserv-was) - Application server has Dojo integrated
+    * [Websphere](http://www-03.ibm.com/software/products/en/appserv-was) - Application server has Dojo integrated
 * Node.js
     * [dojo-node](https://github.com/agebrock/dojo-node) - Lightwave Dojo wrapper for Node.js
     * [Dojos](https://github.com/supnate/dojos) - Server side dojo on NodeJS
