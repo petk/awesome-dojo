@@ -82,10 +82,11 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
 
 #### Dojo 2
+
 * [Dojo core](https://github.com/dojo/core) - Dojo 2 package containing TypeScript and JavaScript core utilities
 * [DOM Utilities](https://github.com/dojo/dom) - Dojo2 DOM Utilities
 * [Dojo Command Line Tooling](https://github.com/dojo/cli)   - Command Line Tooling for Dojo2 Applications
-* loader
+* [Dojo loader](https://github.com/dojo/loader) - AMD loader for Dojo2.
 * [Dojo routing](https://github.com/dojo/routing) - Dojo2 Routing
 * [Dojo compose](https://github.com/dojo/compose) - Dojo2 Composition Library
 * [Dojo widgets](https://github.com/dojo/widgets) - A core UI component library for Dojo 2
