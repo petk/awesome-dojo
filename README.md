@@ -2,8 +2,8 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 [![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
-[![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/peterkokot/awesome-dojo/commits/master)
-[![Build Status](https://img.shields.io/travis/peterkokot/awesome-dojo/master.svg)](https://travis-ci.org/peterkokot/awesome-dojo)
+[![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/petk/awesome-dojo/commits/master)
+[![Build Status](https://img.shields.io/travis/petk/awesome-dojo/master.svg)](https://travis-ci.org/petk/awesome-dojo)
 
 A curated list of awesome [Dojo JavaScript Toolkit](http://dojotoolkit.org) libraries, resources and other shiny things.
 
@@ -209,10 +209,10 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Contributing and License
 
-You are most welcome to [contribute](CONTRIBUTING.md) to this awesome Dojo Toolkit list as well. Big thanks to all [contributors](https://github.com/peterkokot/awesome-dojo/graphs/contributors) who have helped to build this list.
+You are most welcome to [contribute](CONTRIBUTING.md) to this awesome Dojo Toolkit list as well. Big thanks to all [contributors](https://github.com/petk/awesome-dojo/graphs/contributors) who have helped to build this list.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Peter Kokot](https://github.com/peterkokot) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Peter Kokot](https://github.com/petk) has waived all copyright and related or neighboring rights to this work.
 
 [Back to top](#awesome-dojo)
