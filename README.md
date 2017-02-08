@@ -75,11 +75,13 @@ Inspired by the `awesome-*` trend on GitHub.
 * Grids
     * [dgrid](http://dgrid.io/) - next-generation grid component that takes full advantage of modern browsers and object stores.
     * [gridx](http://oria.github.io/gridx/) - A fast rendering, well modularized and plugin architecture based Grid.
+    * [xgrid](https://github.com/xblox/xgrid) - dgrid extensions.
 * [grunt-dojo](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task
 * [grunt-dojo2](https://github.com/dojo/grunt-dojo2) - Build Dojo2 inside a Grunt task
 * [karma-dojo](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit.
 * [Leadfoot](https://github.com/theintern/leadfoot) - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API
 * [Sitepen dstore](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
+* [xaction](https://github.com/xblox/xaction) - Component providing UI and logic for user actions.
 
 #### Dojo 2
 
@@ -151,6 +153,8 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
 * [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples
 * [Dojo2 Example](https://github.com/dojo/examples) - Dojo 2 Examples
+* [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies.
+* [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
 
 [Back to top](#awesome-dojo)
 
