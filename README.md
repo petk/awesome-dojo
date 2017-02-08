@@ -108,7 +108,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [dojo-rails](http://robin850.github.io/dojo-rails/) - Dojo and Ruby on Rails framework integration
 * [Dojo Maven](https://github.com/cometd/dojo-maven) - Maven packaging of the Dojo Toolkit
 * ASP.NET
-    * [Dojo & ASP.NET](http://www.codeproject.com/Articles/650443/DataGrid-View-with-Sorting-and) - DataGrid View with Sorting and Paging using Dojo EnhancedGrid, JsonRest Store, Entity Framework, SQL Server, ASP.NET MVC Web API
+    * [Dojo & ASP.NET](https://www.codeproject.com/Articles/650443/DataGrid-View-with-Sorting-and) - DataGrid View with Sorting and Paging using Dojo EnhancedGrid, JsonRest Store, Entity Framework, SQL Server, ASP.NET MVC Web API
     * [Dojo.NET](https://github.com/lstratman/Dojo.NET) - .NET class library that provides WebControl bindings to ASP.NET websites (both WebForms and MVC, including Razor) using the Dojo toolkit.
     * [Reactive Extensions](https://github.com/Reactive-Extensions/RxJS-Dojo) - Reactive Extensions bindings for the Dojo Toolkit
 * Java
@@ -191,7 +191,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Reddit Community](https://www.reddit.com/r/dojo/) - growing community discussing Dojo on Reddit.
 * [SensioLabs Connect Club](https://connect.sensiolabs.com/club/dojo-toolkit) - Sensiolabs Connect Dojo Toolkit Club for PHP and Symfony developers
 * [IRC](http://irc.lc/freenode/dojo) - Large and active IRC support channel.
-* [Meetup](http://www.meetup.com/topics/dojo/) - Get involved locally and find local user groups.
+* [Meetup](https://www.meetup.com/topics/dojo/) - Get involved locally and find local user groups.
 
 [Back to top](#awesome-dojo)
 
