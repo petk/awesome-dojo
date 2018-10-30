@@ -31,7 +31,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ## DojoToolkit.org resources and documentation
 
 * [API](http://dojotoolkit.org/api/) - API reference for Dojo Toolkit
-* [Roadmap](http://dojotoolkit.org/community/roadmap/) Dojo Roadmap (Dojo2)
+* [Roadmap](https://github.com/dojo/meta/wiki/Roadmap) Dojo Roadmap (all versions)
 * [Blog](http://dojotoolkit.org/blog/) - Dojo Toolkit Blog
 * [Demos](http://demos.dojotoolkit.org/demos/) - Dojo Toolkit Demos
 * [Reference guide](https://github.com/dojo/docs) - [http://dojotoolkit.org/reference-guide/1.10/](http://dojotoolkit.org/reference-guide/1.10/)
@@ -188,7 +188,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Google Plus Community](https://plus.google.com/communities/107837593684207188221) - Dojo community on Google Plus
 * [Linked In Dojo Ajax Toolkit Developers Group](https://www.linkedin.com/groups/Dojo-Ajax-Toolkit-Developers-71399) - Dojo Community on LinkedIn
 * [Linked In Dojo Toolkit Group](https://www.linkedin.com/groups/dojo-toolkit-81926) - Dojo Community on LinkedIn
-* [Reddit Community](https://www.reddit.com/r/dojo/) - growing community discussing Dojo on Reddit.
+* [Reddit Community](https://www.reddit.com/r/dojo/) - growing community discussing Dojo on Reddit (invitation-only).
 * [SensioLabs Connect Club](https://connect.sensiolabs.com/club/dojo-toolkit) - Sensiolabs Connect Dojo Toolkit Club for PHP and Symfony developers
 * [IRC](http://irc.lc/freenode/dojo) - Large and active IRC support channel.
 * [Meetup](https://www.meetup.com/topics/dojo/) - Get involved locally and find local user groups.
