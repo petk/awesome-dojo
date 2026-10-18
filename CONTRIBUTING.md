@@ -9,7 +9,7 @@ Pull requests are welcome as well:
 * Set up your repository and set a remote branch for future updates
 
   ```bash
-  $ git add remote upstream git://github.com/petk/awesome-dojo
+  $ git remote add upstream git://github.com/petk/awesome-dojo
   $ git config branch.master.remote upstream
   ```
 
